@@ -42,7 +42,6 @@
 <code><img height="30" src="https://icon-library.com/images/business-objects-icon/business-objects-icon-11.jpg"></code>
 <code><img height="30" src="https://www.kindpng.com/picc/m/437-4376373_transparent-arcgis-logo-png-arcgis-pro-logo-png.png"></code>
 <code><img height="30" src="https://www.inferotraining.com/images/pages/1440664030vba50.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 <p><i>The Best Analyst I know!</i> -Olive (My Dog)<p>
