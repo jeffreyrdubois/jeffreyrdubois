@@ -16,8 +16,8 @@
 
   </td>
   <td>
-    <p>Master of Data Science 2022 🤞</p>
-    <p>Bachelor of Big Data Analytics 2018</p>
+    <p>Master of Data Science 2022 🤞<br>
+    Bachelor of Big Data Analytics 2018</p>
   </td
 </tr>
 </table>
@@ -43,6 +43,7 @@
 <code><img height="30" src="https://www.kindpng.com/picc/m/437-4376373_transparent-arcgis-logo-png-arcgis-pro-logo-png.png"></code>
 <code><img height="30" src="https://www.inferotraining.com/images/pages/1440664030vba50.jpg"></code>
 
+<hr>
 
 <p><i>The Best Analyst I know!</i> -Olive (My Dog)<p>
 <img src="https://i.redd.it/fjdye6ef2n761.jpg" height=200>
