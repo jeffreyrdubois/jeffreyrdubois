@@ -16,7 +16,7 @@
 
   </td>
   <td>
-    <p>Master of Data Science 2022 🤞<br>
+    <p>Master of Data Science 2022<br>
     Bachelor of Big Data Analytics 2018</p>
   </td
 </tr>
