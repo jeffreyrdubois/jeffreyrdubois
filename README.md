@@ -1,4 +1,4 @@
-<h1>jeffreyrdubois 📈 </h1>
+<h1>Jeffrey DuBois 📈 </h1>
 
 
 
@@ -12,7 +12,7 @@
 </tr>
 <tr>
   <td>
-  <p>Credit Union Reporting Analyst</p>
+  <p>Credit Union Data Scientist</p>
 
   </td>
   <td>
