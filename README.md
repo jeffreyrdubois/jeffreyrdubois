@@ -63,16 +63,11 @@ I'm a **Credit Union Data Scientist** who turns rows of data into decisions — 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffreyrdubois&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Jeffrey's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyrdubois&layout=compact&theme=default&langs_count=8" alt="Top languages"/>
+  <img src="https://img.shields.io/github/followers/jeffreyrdubois?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="Followers"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyrdubois&theme=default" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffreyrdubois&theme=flat&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
