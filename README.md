@@ -77,26 +77,6 @@ I'm a **Credit Union Data Scientist** who turns rows of data into decisions — 
 
 ---
 
-### ⌨️ Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--
-  Lines-of-code and time-coded stats appear here once WakaTime is connected.
-  Setup (free):
-    1. Sign up at https://wakatime.com and install the plugin for your editor
-       (RStudio / VS Code / etc.) so coding time is tracked.
-    2. Add your WakaTime API key as a repo secret named WAKATIME_API_KEY.
-    3. Add a GitHub Action (athul/waka-readme) to auto-update this section.
-  Until then, the GitHub Stats card above is a solid proxy for total contributions.
--->
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeffreyrdubois&layout=compact&theme=default" alt="WakaTime stats (live once connected)"/>
-</p>
-
----
-
 <p align="center"><i>"The Best Analyst I know!"</i> — Olive 🐾 <i>(my dog)</i></p>
 
 <p align="center">
